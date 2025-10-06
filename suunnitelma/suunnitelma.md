@@ -8,7 +8,7 @@ Poista sitten *kaikki* suluilla merkityt kohdat.)
 
 Tekijä: Atte Koljonen
 
-Työ git-varaston osoite: <https://gitlab.jyu.fi/anlakane/ohj1ht> (*Korvaa* tämä osoite oman git-varastosi osoitteella)
+Työ git-varaston osoite: <https://gitlab.jyu.fi/???/ohj1ht> (*Korvaa* tämä osoite oman git-varastosi osoitteella)
 
 Ohjelman nimi: Lottokone
 
